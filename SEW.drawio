@@ -71,6 +71,9 @@
         <mxCell id="CrgZ5U5lPNiD004af8dP-32" value="Exception" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="1" connectable="0" vertex="1">
           <mxGeometry x="680" y="350" as="geometry" />
         </mxCell>
+        <mxCell id="K8B2ap1IN_SV61UkPv6t-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CrgZ5U5lPNiD004af8dP-33" target="K8B2ap1IN_SV61UkPv6t-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CrgZ5U5lPNiD004af8dP-33" value="NoSQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="790" y="510" width="60" height="80" as="geometry" />
         </mxCell>
@@ -141,6 +144,15 @@
         </mxCell>
         <mxCell id="THenc4RzsG1JQCCcDmon-3" value="SEW" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K8B2ap1IN_SV61UkPv6t-2" value="Cold Storage" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="790" y="680" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K8B2ap1IN_SV61UkPv6t-5" value="Keeping only relevant data according&lt;div&gt;&amp;nbsp;to the exceptions so that&amp;nbsp;&lt;div&gt;analysis can be done on them to&amp;nbsp;&lt;/div&gt;&lt;div&gt;create impactful business decisions.&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="690" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="K8B2ap1IN_SV61UkPv6t-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Impact of having exceptions data&lt;/h1&gt;&lt;p&gt;1. Which downstream services are down most of the times?&lt;/p&gt;&lt;p&gt;2. What are the times they are generally down?&lt;/p&gt;&lt;p&gt;3. What kind of exceptions are most common?&lt;/p&gt;&lt;p&gt;4. Business decisions can be taken about which systems need the most and immediate attention.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="670" width="320" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
